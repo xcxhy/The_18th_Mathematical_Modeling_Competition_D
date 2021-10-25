@@ -1,10 +1,17 @@
 # The_18th_Mathematical_Modeling_Competition_D
 第18届研究生数学建模比赛D题完整处理代码
 压缩包中包括每题的代码，以及对比实验的方法。
+
 每个文件都对应其方法，Feat_seled_predision.ipynb是利用随机森林的方法进行特征提取。
+
 p2中Linear_Regression.ipynb是线性回归方法，RandomFR.ipynb是随机森林方法。
+
 xgboost_regression.ipynb是利用xgboost的方法。
+
 Multivariable_regression.ipynb是利用的神经网络的方法。
+
 P3中基本与P2中一致。
+
 P4是利用matliab与SPSS做的。
+
 python文件中所也有所对应的EDA与可视化。
