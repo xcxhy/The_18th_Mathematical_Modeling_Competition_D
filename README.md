@@ -1,5 +1,5 @@
 # The_18th_Mathematical_Modeling_Competition_D
-第18届研究生数学建模比赛D题完整处理代码
+2021年第18届研究生数学建模比赛D题完整处理代码
 压缩包中包括每题的代码，以及对比实验的方法。
 
 每个文件都对应其方法，Feat_seled_predision.ipynb是利用随机森林的方法进行特征提取。
