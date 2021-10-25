@@ -1,0 +1,2 @@
+# The_18th_Mathematical_Modeling_Competition_D
+第18届研究生数学建模比赛D题完整处理代码
